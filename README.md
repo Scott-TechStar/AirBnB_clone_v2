@@ -3,13 +3,6 @@
 </p>
 
 <h1 align="center">AirBnB Clone Project</h1>
-<h1 align="center">HolbertonBnB</h1>
-<p align="center">An AirBnB clone.</p>
-
-<p align="center">
-  <img src="https://github.com/bdbaraban/AirBnB_clone_v2/blob/master/assets/hbnb_logo.png"
-	    alt="HolbertonBnB logo">
-</p>
 
 ## Description :house:
 
@@ -52,13 +45,13 @@ If you have any questions, please don't hesitate to reach out!
 
 ### Static :page_facing_up:
 
-The front-end of HolbertonBnB was designed from scratch using HTML5/CSS3 pages
+The front-end of AirBnB Clone was designed from scratch using HTML5/CSS3 pages
 integrated using Flask. While the front-end has not yet been officially deployed,
 screenshots are viewable in the README of the [web_flask](./web_flask) directory.
 
 ### Classes :cl:
 
-HolbertonBnB supports the following classes:
+AirBnB Clone supports the following classes:
 
 * BaseModel
 * User
