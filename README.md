@@ -98,12 +98,12 @@ respectively.
 ## Console :computer:
 
 The console is a command line interpreter that permits management of the backend
-of HolbertonBnB. It can be used to handle and manipulate all classes utilized by
+of AirBnB Clone. It can be used to handle and manipulate all classes utilized by
 the application (achieved by calls on the `storage` object defined above).
 
 ### Using the Console
 
-The HolbertonBnB console can be run both interactively and non-interactively.
+The AirBnB Clone console can be run both interactively and non-interactively.
 To run the console in non-interactive mode, pipe any command(s) into an execution
 of the file `console.py` at the command line.
 
@@ -159,7 +159,7 @@ $
 
 ### Console Commands
 
-The HolbertonBnB console supports the following commands:
+The AirBnB Clone console supports the following commands:
 
 #### create
 * Usage: `create <class> <param 1 name>=<param 1 value> <param 2 name>=<param 2 value> ...`
@@ -319,7 +319,7 @@ ef0fdc863c02'}
 
 ## Testing :straight_ruler:
 
-Unittests for the HolbertonBnB project are defined in the [tests](./tests)
+Unittests for the AirBnB Clone project are defined in the [tests](./tests)
 folder. To run the entire test suite simultaneously, execute the following command:
 
 ```
