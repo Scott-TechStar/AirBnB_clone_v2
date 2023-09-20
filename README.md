@@ -31,9 +31,9 @@ I'd like to present this web application as the culmination of my full-stack edu
 
 It's important to note that while this project is substantial, it is still a work in progress. The deployment of a fully functional RESTful API is currently underway and will be completed within the next month, coinciding with my final phase at Holberton.
 
-Now, let me provide some more context about this AirBnB clone. This repository represents the second iteration of the project. The initial version (accessible [here](https://github.com/Scott-TechStar/AirBnB_clone)) was developed in collaboration with a fellow cohort member. We built the initial file storage back-end and console entirely from scratch, engaging in pair programming for most of the work in this version.
+Now, let me provide some more context about this AirBnB clone. This repository represents the second iteration of the project. The initial version (accessible [here](https://github.com/Scott-TechStar/AirBnB_clone)) was developed by me. I built the initial file storage back-end and console entirely from scratch, engaging in pair programming for most of the work in this version.
 
-For this second iteration, I worked with a new partner and inherited a different version of the same back-end, which had been initially developed by a pair of Holberton students from a previous cohort. We then engaged in pair programming to enhance the database storage engine of the back-end.
+For this second iteration, I inherited a different version of the same back-end, which I had developed preveiously. We then engaged in pair programming to enhance the database storage engine of the back-end.
 
 Between these two versions, I independently crafted a complete CSS-styled HTML web page for the project. While the HTML files I authored are primarily found in [version one](https://github.com/Scott-TechStar/AirBnB_clone), please note that the [web_static](./web_static) folder in this directory was included in the fork. Additionally, all Shell, Puppet, and Fabric deployment scripts and manifests were authored by me.
 
