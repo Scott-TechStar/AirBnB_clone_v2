@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+# Login to my Server
+
+eval $("ssh-agent")
+ssh-add scott
+
+ssh ubuntu@34.227.91.107
